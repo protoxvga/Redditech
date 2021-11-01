@@ -1,0 +1,14 @@
+com/redditech_vanilla/BuildConfig.java
+ com.redditech_vanilla.BuildConfig
+com/redditech_vanilla/MainApplication.java
+ com.redditech_vanilla.MainApplication
+ com.redditech_vanilla.MainApplication$1
+com/redditech_vanilla/ReactNativeFlipper.java
+ com.redditech_vanilla.ReactNativeFlipper
+ com.redditech_vanilla.ReactNativeFlipper$1
+ com.redditech_vanilla.ReactNativeFlipper$2
+ com.redditech_vanilla.ReactNativeFlipper$2$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/redditech_vanilla/MainActivity.java
+ com.redditech_vanilla.MainActivity

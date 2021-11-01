@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Redditech_vanilla.iml" filepath="$PROJECT_DIR$/.idea/modules/Redditech_vanilla.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Redditech_vanilla.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Redditech_vanilla.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1763681734/Redditech_vanilla.react-native-androw.iml" filepath="$PROJECT_DIR$/.idea/modules/1763681734/Redditech_vanilla.react-native-androw.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1170467529/Redditech_vanilla.react-native-app-auth.iml" filepath="$PROJECT_DIR$/.idea/modules/-1170467529/Redditech_vanilla.react-native-app-auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/897879747/Redditech_vanilla.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/897879747/Redditech_vanilla.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-376697966/Redditech_vanilla.react-native-masked-view_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/-376697966/Redditech_vanilla.react-native-masked-view_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/225378924/Redditech_vanilla.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/225378924/Redditech_vanilla.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/271202692/Redditech_vanilla.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/271202692/Redditech_vanilla.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-535644173/Redditech_vanilla.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/-535644173/Redditech_vanilla.react-native-vector-icons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-469854730/Redditech_vanilla.react-native-webview.iml" filepath="$PROJECT_DIR$/.idea/modules/-469854730/Redditech_vanilla.react-native-webview.iml" />
+    </modules>
+  </component>
+</project>
