@@ -33,10 +33,10 @@ L'application s'installe alors sur votre téléphone ou AVD
 
 ## Galerie
 
-![Farmers Market Finder Demo](Demo/Login.gif)
-![Farmers Market Finder Demo](Demo/Home.gif)
-![Farmers Market Finder Demo](Demo/Profile.gif)
-![Farmers Market Finder Demo](Demo/Search.gif)
+<img src="https://github.com/protoxvga/Redditech/tree/master/Demo/Login.gif" alt="Databay showcase gif" title="Databay showcase gif" width="400"/>
+<img src="https://github.com/protoxvga/Redditech/tree/master/Demo/Home.gif" alt="Databay showcase gif" title="Databay showcase gif" width="400"/>
+<img src="https://github.com/protoxvga/Redditech/tree/master/Demo/Profile.gif" alt="Databay showcase gif" title="Databay showcase gif" width="400"/>
+<img src="https://github.com/protoxvga/Redditech/tree/master/Demo/Search.gif" alt="Databay showcase gif" title="Databay showcase gif" width="400"/>
 
 ## Politique de test
 
