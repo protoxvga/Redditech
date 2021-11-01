@@ -33,10 +33,10 @@ L'application s'installe alors sur votre téléphone ou AVD
 
 ## Galerie
 
-<img src="https://github.com/protoxvga/Redditech/tree/master/Demo/Login.gif" alt="Databay showcase gif" title="Databay showcase gif" width="400"/>
-<img src="https://github.com/protoxvga/Redditech/tree/master/Demo/Home.gif" alt="Databay showcase gif" title="Databay showcase gif" width="400"/>
-<img src="https://github.com/protoxvga/Redditech/tree/master/Demo/Profile.gif" alt="Databay showcase gif" title="Databay showcase gif" width="400"/>
-<img src="https://github.com/protoxvga/Redditech/tree/master/Demo/Search.gif" alt="Databay showcase gif" title="Databay showcase gif" width="400"/>
+![Login Screen](Demo/Login.gif)
+![Home Screen](Demo/Home.gif)
+![Profile Screen](Demo/Profile.gif)
+![Demo Screen](Demo/Search.gif)
 
 ## Politique de test
 
