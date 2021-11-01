@@ -33,10 +33,7 @@ L'application s'installe alors sur votre téléphone ou AVD
 
 ## Galerie
 
-![Login Screen](Demo/Login.gif)
-![Home Screen](Demo/Home.gif)
-![Profile Screen](Demo/Profile.gif)
-![Demo Screen](Demo/Search.gif)
+![Login Screen](Demo/Login.gif)![Home Screen](Demo/Home.gif)![Profile Screen](Demo/Profile.gif)![Demo Screen](Demo/Search.gif)
 
 ## Politique de test
 
