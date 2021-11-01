@@ -1,0 +1,57 @@
+{
+  "name": "Redditech_vanilla",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "start": "react-native start",
+    "test": "jest",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "@react-native-masked-view/masked-view": "^0.2.6",
+    "@react-navigation/material-bottom-tabs": "^6.0.9",
+    "@react-navigation/native": "^6.0.4",
+    "@react-navigation/native-stack": "^6.2.2",
+    "@react-navigation/stack": "^6.0.11",
+    "base-64": "^1.0.0",
+    "dayjs": "^1.10.7",
+    "events": "^3.3.0",
+    "parse-json": "^5.2.0",
+    "react": "17.0.2",
+    "react-content-loader": "^6.0.3",
+    "react-native": "0.66.0",
+    "react-native-androw": "^0.0.34",
+    "react-native-app-auth": "^6.4.0",
+    "react-native-dotenv": "^3.2.0",
+    "react-native-fast-image": "^8.5.11",
+    "react-native-gesture-handler": "^1.10.3",
+    "react-native-paper": "^4.9.2",
+    "react-native-safe-area-context": "^3.3.2",
+    "react-native-screens": "^3.8.0",
+    "react-native-simple-card-view": "^0.3.0",
+    "react-native-vector-icons": "^8.1.0",
+    "react-native-webview": "^11.14.1",
+    "react-native-youtube-iframe": "^2.1.2",
+    "react-navigation": "^4.4.4",
+    "snoowrap": "^1.23.0",
+    "stream": "^0.0.2",
+    "url": "^0.11.0",
+    "util": "^0.12.4"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.15.8",
+    "@babel/preset-react": "^7.14.5",
+    "@babel/runtime": "^7.15.4",
+    "@react-native-community/eslint-config": "^3.0.1",
+    "babel-jest": "^27.2.4",
+    "babel-preset-react-native": "^4.0.1",
+    "eslint": "^7.32.0",
+    "jest": "^27.2.4",
+    "react-test-renderer": "17.0.2"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}

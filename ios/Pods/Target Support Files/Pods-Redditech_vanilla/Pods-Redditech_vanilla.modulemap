@@ -1,0 +1,6 @@
+module Pods_Redditech_vanilla {
+  umbrella header "Pods-Redditech_vanilla-umbrella.h"
+
+  export *
+  module * { export * }
+}
