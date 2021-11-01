@@ -1,5 +1,20 @@
 # Redditech Documentation (FR)
 
+## Contexte
+
+Projet de 3e année à Epitech réalisé en 4 semaines.
+
+Le but: réaliser un client Reddit en react native en utilisant leur Api.
+
+Total découverte du mobile et du react-native.
+Satisfait du résultat pour 4 semaines, possibles améliorations a venir.
+
+Principales librairies utilisées :
+
+- Snoowrap (Wrapper de l'api reddit)
+- Ui / Ux : React-navigation | react-native-paper | react-native-vector-icons...
+- Utilitaire : react-native-dotenv | youtube-iframe | dayjs...
+
 ## Installation
 
 Clonage du repo + installation des libs :
@@ -14,8 +29,15 @@ Démarrer android studio -> Open -> #Repo_du_projet -> Build
 
 Sur un terminal dans le root du projet : ```npm start```
 
-L'application s'intalle alors sur votre téléphone ou AVD
+L'application s'installe alors sur votre téléphone ou AVD
+
+## Galerie
+
+![Farmers Market Finder Demo](Demo/Login.gif)
+![Farmers Market Finder Demo](Demo/Home.gif)
+![Farmers Market Finder Demo](Demo/Profile.gif)
+![Farmers Market Finder Demo](Demo/Search.gif)
 
 ## Politique de test
 
-GitHub Action qui éffectue un npm install et vérifie que l'application build sur Android
+GitHub Action qui effectue un npm install et vérifie que l'application build sur Android
