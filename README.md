@@ -38,8 +38,8 @@ GitHub Action qui effectue un npm install et vérifie que l'application build su
 ## Galerie
 
 <div>
-  <img align="left" src="https://raw.githubusercontent.com/protoxvga/Redditech/master/Demo/Login.gif"  width="300" />
-  <img align="left" src="https://raw.githubusercontent.com/protoxvga/Redditech/master/Demo/Home.gif"  width="300" />
-  <img align="left" src="https://raw.githubusercontent.com/protoxvga/Redditech/master/Demo/Profile.gif"  width="300" />
-  <img align="left" src="https://raw.githubusercontent.com/protoxvga/Redditech/master/Demo/Search.gif"  width="300" />
+  <img align="left" src="https://raw.githubusercontent.com/protoxvga/Redditech/master/Demo/Login.gif"  width="288" />
+  <img align="left" src="https://raw.githubusercontent.com/protoxvga/Redditech/master/Demo/Home.gif"  width="288" />
+  <img align="left" src="https://raw.githubusercontent.com/protoxvga/Redditech/master/Demo/Profile.gif"  width="288" />
+  <img align="left" src="https://raw.githubusercontent.com/protoxvga/Redditech/master/Demo/Search.gif"  width="288" />
 </div>
