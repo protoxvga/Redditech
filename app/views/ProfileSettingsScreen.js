@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { Title, Subheading, Divider } from 'react-native-paper';
 import { View } from "react-native";
-import { userSettings } from './LoginScreen'
+import { userSettings } from './../src/ApiCalls'
 
 export default function ProfileSettingsScreen({ navigation }) {
     const [userSettingsList, UpdateUserSettingsList] = React.useState(userSettings);

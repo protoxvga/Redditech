@@ -8,7 +8,7 @@ import ImageCard from './../components/ImageCard';
 import TextCard from './../components/TextCard';
 import VideoCard from './../components/VideoCard';
 
-import { refreshSubbedList, subscribeSubreddit, unsubscribeSubreddit } from './LoginScreen'
+import { refreshSubbedList, subscribeSubreddit, unsubscribeSubreddit } from './../src/ApiCalls'
 import { searchedSubreddit, firsthot, subredditName, subscribedPosts } from './SearchScreen';
 import { refreshHandling, refreshNewPosts, refreshHotPosts, refreshBestPosts } from './../src/SubredditRefreshHandling';
 

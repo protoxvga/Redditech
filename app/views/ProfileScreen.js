@@ -6,7 +6,7 @@ import { View, Alert, Image } from "react-native";
 
 import ProfileSettingsScreen from './ProfileSettingsScreen'
 
-import { result_json, userInfo, public_description, userSettings } from './LoginScreen'
+import { result_json, userInfo, public_description, userSettings } from './../src/ApiCalls'
 
 export default function Profile({ navigation }) {
     return (

@@ -1,6 +1,6 @@
 import React, { useState, useCallback } from "react";
 
-import { getHotPost, getNewPost, getBestPost } from './../views/LoginScreen'
+import { getHotPost, getNewPost, getBestPost } from './ApiCalls'
 
 let actual_tab = "hot";
 

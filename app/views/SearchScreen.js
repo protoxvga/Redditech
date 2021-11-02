@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import { TextInput, DefaultTheme, Provider as PaperProvider } from 'react-native-paper';
 import { View } from "react-native";
 
-import { getFirstHotsPubs, searchSubreddit, refreshSubbedList } from './LoginScreen'
+import { getFirstHotsPubs, searchSubreddit, refreshSubbedList } from './../src/ApiCalls'
 
 let subscribedPosts, searchedSubreddit, firsthot, subredditName;
 

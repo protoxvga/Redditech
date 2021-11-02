@@ -1,8 +1,8 @@
 import React, { useState, useCallback } from "react";
 
-import { Title, Text, Button, Paragraph, Avatar } from 'react-native-paper';
+import { Title, Text, Button } from 'react-native-paper';
 
-import { RefreshControl, SafeAreaView, View, Image, Alert, FlatList, StatusBar, StyleSheet, TouchableOpacity, ScrollView } from 'react-native';
+import { RefreshControl, SafeAreaView, View, Image, Alert, ScrollView } from 'react-native';
 
 import { createMaterialBottomTabNavigator } from '@react-navigation/material-bottom-tabs';
 
@@ -17,7 +17,7 @@ import Search from './SearchScreen'
 
 import { refreshHandling, refreshNewPosts, refreshHotPosts, refreshBestPosts } from './../src/HomeRefreshHandling';
 
-import { hotPosts } from './LoginScreen'
+import { hotPosts } from './../src/ApiCalls'
 
 const Tab = createMaterialBottomTabNavigator();
 
